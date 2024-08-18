@@ -23,3 +23,12 @@ While forecasting isn't directly implemented in this code, it lays the groundwor
 
 Social media managers and marketing professionals interested in analyzing Instagram reach data.
 Data analysts seeking to understand trends and patterns in social media engagement.
+
+# Colab link
+https://colab.research.google.com/drive/1ff-3rgWFxiz1YQNq9mBXYQys9VZ65DDZ?usp=sharing
+
+![image](https://github.com/user-attachments/assets/108a37a8-a3c2-4828-bb19-b6b8dfb12b36)
+![image](https://github.com/user-attachments/assets/68c274f4-ead4-4132-a208-8ba097d39394)
+
+
+
